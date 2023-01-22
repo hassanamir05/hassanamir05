@@ -9,13 +9,11 @@
 </p>
 
 <h3>💁‍♂️About me</h3>
-<hr>
 <p>I am 1st year Computer Science Student at Air University Islamabad.</p>
  -🌱 I’m currently learning **Frontend Web Development and Object Oriented Programming **
  <hr noshade>
 
 <h3 align="left">👨 Connect with me</h3>
-<h>
 <p align="center">
 <a href="https://twitter.com/hassanamir0506" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hassanamir0506" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100013913140948" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/profile.php?id=100013913140948"  /></a>
@@ -24,19 +22,16 @@
 <hr noshade>
 
 <h3 aling="left">🔥 Streak</h3>
-<hr>
 <p aling="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&" alt="hassanamir05" /></p>
 <hr noshade>
 
 <h3 align="left">🚀 Skills</h3>
-<hr>
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a> 
 </p>
 <hr noshade>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&locale=en" alt="hassanamir05" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&show_icons=true&locale=en&layout=compact" alt="hassanamir05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&locale=en" alt="hassanamir05" /></p>
 
 
