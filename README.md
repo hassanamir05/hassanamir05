@@ -12,7 +12,7 @@
 <h3 align="left">👨 Connect with me</h3>
 <hr>
 <p align="center">
-    <a href="www.linkedin.com/in/hassan-amir-a2a19b24b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-          badge&logo=linkedin&logoColor=white" alt="hassanamir0506" />
+    <a href="www.linkedin.com/in/hassan-amir-a2a19b24b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-    badge&logo=linkedin&logoColor=white" alt="Linkedin" />
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanamir0506@gmail.com" target="_blank"> 
 	     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
