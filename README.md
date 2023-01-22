@@ -1,11 +1,11 @@
-<h1 align="center">Hey , I'm Abdullah Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey , I'm M.Hassan AMir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <br>
 
 
 ## :sassy_man:  About me
-Hi there! 👋 My name is Abdullah, and I am a 1st year computer science student at Air University, Islamabad. 
+Hi there! 👋 My name is Hassan, and I am a 1st year computer science student at Air University, Islamabad. 
 
 <br>
 
@@ -34,7 +34,7 @@ Hi there! 👋 My name is Abdullah, and I am a 1st year computer science student
 
 ## 🛠️ My Skills
 
-### ![arrow-right](https://user-images.githubusercontent.com/120783382/213919341-ffaf1df2-7945-40a4-85f6-d71f41a10fb7.png)
+
  Programming languages
 
 <p align="center"> 
@@ -43,7 +43,6 @@ Hi there! 👋 My name is Abdullah, and I am a 1st year computer science student
   </a>	
 </p>
 
-### ![arrow-right](https://user-images.githubusercontent.com/120783382/213919337-f2c96bb0-9140-43de-8503-240c92e1361c.png)
  Frontend Development
 <p align="center"> 
   &emsp; 
