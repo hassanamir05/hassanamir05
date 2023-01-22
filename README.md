@@ -9,7 +9,7 @@
 - 📫 How to reach me **hassanamir0506@gmail.com**
 
 <h3 align="left">👨 Connect with me</h3>
-<hr size="2" noshade>
+<hr noshade>
 <p align="center">
 <a href="https://twitter.com/hassanamir0506" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hassanamir0506" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100013913140948" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/profile.php?id=100013913140948"  /></a>
@@ -17,11 +17,11 @@
 </p>
 
 <h3 aling="left">🔥 Streak</h3>
-<hr size="2" noshade>
+<hr noshade>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&" alt="hassanamir05" /></p>
 
 <h3 align="left">🚀 Skills</h3>
-<hr size="2" noshade>
+<hr noshade>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"  />    </a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&show_icons=true&locale=en&layout=compact" alt="hassanamir05" /></p>
 
