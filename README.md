@@ -47,7 +47,7 @@
 <p alingh="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&locale=en" alt="hassanamir05" />
 	<br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="hassanamir05" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 </p>
  <br>
 
