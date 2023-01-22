@@ -5,7 +5,7 @@
 
 <h3>💁‍♂️About me</h3>
 <hr>
-<p>I am 1st year Computer Science Student at Air University Islamabad.</p>
+<p>I am a 1st year Computer Science Student at Air University Islamabad.</p>
  -🌱 I’m currently learning **Frontend Web Development and Object Oriented Programming **
  <br><br>
 
