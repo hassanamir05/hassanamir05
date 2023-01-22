@@ -3,7 +3,7 @@
 <br>
 
 ## :sassy_man:  About me
-<hr>
+
 Hi there! 👋 My name is Hassan, and I am a 1st year computer science student at Air University, Islamabad. 
 
 <br>
