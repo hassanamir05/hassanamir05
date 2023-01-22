@@ -2,13 +2,14 @@
 
 <br>
 
-:sassy_man: <b> About me :</b><br>
+## :sassy_man:  About me
+<hr>
 Hi there! 👋 My name is Hassan, and I am a 1st year computer science student at Air University, Islamabad. 
 
 <br>
 
-  Connect with me
- 
+##  Connect with me
+ <hr>
 <br>
 <p align="center">
 	<a href="www.linkedin.com/in/hassan-amir-a2a19b24b" target="_blank">
