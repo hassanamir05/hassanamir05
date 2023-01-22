@@ -45,8 +45,9 @@
 <h3 aling="left">📊 Github StatsGithub Stats</h3>
 <hr>
 <p alingh="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&locale=en" alt="hassanamir05" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&show_icons=true&locale=en&layout=compact" alt="hassanamir05" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&locale=en" alt="hassanamir05" />
+	<br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&show_icons=true&locale=en&layout=compact" alt="hassanamir05" />
 </p>
  <br>
 
