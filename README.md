@@ -32,12 +32,20 @@
 
 <h3 align="left">🚀 Skills</h3>
 <hr>
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus">
-	</a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-	</a> 
-</p>
+### 👉 Programming languages
+
+<p align="center"> 
+&emsp;
+   <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+<br>
+### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a> 
 <br>
 <h3 aling="left">📊 Github StatsGithub Stats</h3>
 <hr>
