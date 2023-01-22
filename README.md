@@ -1,9 +1,6 @@
-<h1 align="center">Hey , I'm M.Hassan AMir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center">Hey , I'm M.Hassan Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
-
-
 ## :sassy_man:  About me
 Hi there! 👋 My name is Hassan, and I am a 1st year computer science student at Air University, Islamabad. 
 
@@ -66,9 +63,3 @@ Hi there! 👋 My name is Hassan, and I am a 1st year computer science student a
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/abdullahqaisar">
-	<img alt="Hassan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hassanamir05&custom_title= Hassan's%20Contribution%20Graph&theme=react-dark" />
-</a>
-  <br/>
