@@ -29,7 +29,7 @@
 <h3 aling="left">🔥 Streak</h3>
 <hr>
 <p aling="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=grey-orange" alt="hassanamir05" />
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=black-red" alt="hassanamir05" />
 </p>
 <br>
 
