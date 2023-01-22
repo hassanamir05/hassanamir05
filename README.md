@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Amir</h1>
-<h3 align="center">I am 1st year Computer Science Student at Air University Islamabad.</h3>
 
-<p align="center"> <a href="www.linkedin.com/in/hassan-amir-a2a19b24b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassanamir0506" /></a> <a href="mailto:hassanamir0506@gmail.com" ><img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></p>
+<p align="center"> <a href="www.linkedin.com/in/hassan-amir-a2a19b24b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassanamir0506" /></a> <a href="mailto:hassanamir0506@gmail.com" ><img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanamir05&label=Profile%20views&color=0e75b6&style=flat" alt="hassanamir05" /> </p>
-
+<h3>About me</h3>
+<p>I am 1st year Computer Science Student at Air University Islamabad.</p>
 - 🌱 I’m currently learning **Frontend Web Development and Object Oriented Programming **
 <h3 align="left">👨 Connect with me</h3>
 <hr noshade>
