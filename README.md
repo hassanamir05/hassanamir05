@@ -1,12 +1,12 @@
 <h1 align="center">Hey , I'm M.Hassan Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
-## :sassy_man:  About me
+:sassy_man:  About me
 Hi there! 👋 My name is Hassan, and I am a 1st year computer science student at Air University, Islamabad. 
 
 <br>
 
-## 👯 Connect with me
+  Connect with me
  
 <br>
 <p align="center">
@@ -29,7 +29,7 @@ Hi there! 👋 My name is Hassan, and I am a 1st year computer science student a
 <br>
 <br>
 
-## 🛠️ My Skills
+## 🛠️ Skills
 
 
  Programming languages
