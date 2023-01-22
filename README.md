@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Amir</h1>
-<p align="center"> <a href="https://twitter.com/hassanamir0506" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hassanamir0506" /></a> </p>
+<p align="center"> <a href="https://twitter.com/hassanamir0506" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hassanamir0506" /></a> <a href="www.linkedin.com/in/hassan-amir-a2a19b24b" target="blank"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hassan Amir" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently learning **Frontend Web Development and OOP**
 
 - 📫 How to reach me **hassanamir0506@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hassanamir0506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanamir0506" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassan-amir-a2a19b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-amir-a2a19b24b" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100013913140948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013913140948" height="30" width="40" /></a>
 <a href="https://instagram.com/hassan_amir05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan_amir05" height="30" width="40" /></a>
 </p>
 
