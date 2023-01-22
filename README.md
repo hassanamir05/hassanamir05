@@ -9,7 +9,7 @@ Hi there! 👋 My name is Hassan, and I am a 1st year computer science student a
 <br>
 
 ##  Connect with me
- <hr>
+ 
 <br>
 <p align="center">
 	<a href="www.linkedin.com/in/hassan-amir-a2a19b24b" target="_blank">
