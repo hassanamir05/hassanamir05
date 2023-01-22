@@ -25,9 +25,7 @@
 
 <h3 aling="left">🔥 Streak</h3>
 <hr>
-<p aling="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
-</p>
+<p aling="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" /></p>
 <br>
 
 <h3 align="left">🚀 Skills</h3>
@@ -48,11 +46,12 @@ Frontend Development
   </a> 
 </p>
 <br>
-<h3 aling="left">📊 Github StatsGithub Stats</h3>
+<h3 aling="left">📊 Github Stats</h3>
 <hr>
 <p alingh="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" /></p>
 	<br>
+<p alingh="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 </p>
  <br>
