@@ -30,7 +30,7 @@
 
 <h3 align="left">🚀 Skills</h3>
 <hr>
-Programming languages
+👉Programming languages
 <p align="center"> 
 &emsp;
    <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -38,7 +38,7 @@ Programming languages
   </a>
 </p>
 <br>
-Frontend Development
+👉Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
