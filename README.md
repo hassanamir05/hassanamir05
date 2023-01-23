@@ -48,10 +48,9 @@ Frontend Development
 <br>
 <h3 aling="left">📊 Github Stats</h3>
 <hr>
-<p alingh="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" /></p>
+<p aling="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 	<br>
-<p alingh="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 </p>
  <br>
