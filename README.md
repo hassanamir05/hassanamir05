@@ -25,7 +25,9 @@
 
 <h3 aling="left">🔥 Streak</h3>
 <hr>
-<p aling="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" /></p>
+<center>
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
+</center>
 <br>
 
 <h3 align="left">🚀 Skills</h3>
@@ -52,10 +54,14 @@
 <hr>
 <p aling="center">
 	&emsp;
-  <img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+	<center>
+  		<img  src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+  	</center>
 	<br>
 	&emsp;
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+	<center>
+  		<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+	</center>
 </p>
  <br>
 
