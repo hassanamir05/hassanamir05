@@ -13,7 +13,7 @@
 <hr>
 <br>
 <p align="center">
-	<a href="https://www.linkedin.com/in/hassanamir05/" target="_blank">
+	<a href="https://www.linkedin.com/in/muhammadhassanamir/" target="_blank">
 		<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanamir0506@gmail.com" target="_blank"> 
