@@ -6,7 +6,7 @@
 <h3>💁‍♂️About me</h3>
 <hr>
 <p>I am a 1st year Computer Science Student at Air University Islamabad.</p>
- -🌱 I’m currently learning **Frontend Web Development and Object Oriented Programming **
+As a 1st year computer science student, I am thrilled to be part of a field that is constantly evolving and transforming the world. I am eager to explore the various areas within computer science and discover which ones align best with my interests and strengths.
  <br><br>
 
 <h3 align="left">📱Connect with us</h3>
@@ -47,7 +47,9 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-	<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img alt="Java Script" src="https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
+   <img alt="jQuery" src="https://img.shields.io/badge/jquery-1572B6?style=for-the-badge&logo=jquery&logoColor=white">
   </a> 
 </p>
 <br>
