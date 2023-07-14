@@ -17,7 +17,7 @@ As a 1st year computer science student, I am thrilled to be part of a field that
 		<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanamir0506@gmail.com" target="_blank"> 
-	     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	
 </p>
@@ -37,7 +37,7 @@ As a 1st year computer science student, I am thrilled to be part of a field that
 &emsp;
    <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img alt="Pythin" src="https://img.shields.io/badge/pyhton-1572B6?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Pythin" src="https://img.shields.io/badge/pyhton-%23E34F26?style=for-the-badge&logo=python&logoColor=white">
   </a>
 </p>
 <br>
