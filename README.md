@@ -47,9 +47,9 @@ As a 1st year computer science student, I am thrilled to be part of a field that
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23E34F26?style=for-the-badge&logo=bootstrap&logoColor=white">
    <img alt="Java Script" src="https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
-   <img alt="jQuery" src="https://img.shields.io/badge/jquery-1572B6?style=for-the-badge&logo=jquery&logoColor=white">
+   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%23E34F26?style=for-the-badge&logo=jquery&logoColor=white">
   </a> 
 </p>
 <br>
