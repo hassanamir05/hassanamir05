@@ -58,12 +58,12 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <p align="center">
 	&emsp;
 	<center align="center">
-		<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 	</center>
 	<br>
 	&emsp;
 	<center align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 	</center>
 </p>
 <br>
