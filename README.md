@@ -33,7 +33,7 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <!-- Center-aligned table -->
 <div style="text-align: center;">
 	<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,bootstrap,jquery,cpp" alt="My Skills">
+  <img align="center" src="https://skillicons.dev/icons?i=python,js,react,html,css,bootstrap,jquery,cpp" alt="My Skills">
 </a>
 
 </div>
