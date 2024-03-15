@@ -12,12 +12,14 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <hr>
 <br>
 <p align="center">
-	<a href="https://www.linkedin.com/in/muhammadhassanamir/" target="_blank">
-		<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	<a href="https://www.linkedin.com/in/muhammadhassanamir/">
+ 	 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
 	</a>
-	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanamir0506@gmail.com" target="_blank">
-	     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white">
+ 	<a href="mail_to:hassanamir0506@gmail.com">
+ 	 <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="My Skills">
 	</a>
+
+ 
 </p>
 <br>
 
