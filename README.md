@@ -18,8 +18,6 @@ As a Computer Science student, I am thrilled to be part of a field that is const
  	<a href="mailto:hassanamir0506@gmail.com">
  	 <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="My Skills">
 	</a>
-
- 
 </p>
 <br>
 
@@ -34,8 +32,8 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <hr>
 <!-- Center-aligned table -->
 <div style="text-align: center;">
-	<a href="https://skillicons.dev">
-  <img align="center" height="60px" src="https://skillicons.dev/icons?i=python,js,react,tailwind,materialui,html,css,bootstrap,jquery,cpp" alt="My Skills">
+	<a href="https://skillicons.dev" style="text-align:center;">
+  <img align="center" height="60px" src="https://skillicons.dev/icons?i=python,js,react,tailwind,materialui,html,css,bootstrap,cpp" alt="My Skills">
 </a>
 
 </div>
