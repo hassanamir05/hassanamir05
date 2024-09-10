@@ -32,8 +32,8 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <hr>
 <!-- Center-aligned table -->
 <div style="text-align: center;">
-	<a href="https://skillicons.dev" style="text-align:center;">
-  <img align="center" height="60px" src="https://skillicons.dev/icons?i=ts,js,python,react,redux,tailwind,materialui,chartjs,html,css,bootstrap,cpp" alt="My Skills">
+	<a href="https://muhammad-hassa-amir.vercel.app" style="text-align:center;">
+  <img align="center" height="60px" src="https://skillicons.dev/icons?i=ts,js,python,react,redux,tailwind,materialui,html,css,bootstrap,cpp" alt="My Skills">
 </a>
 
 </div>
