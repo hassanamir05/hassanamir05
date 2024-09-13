@@ -24,12 +24,8 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 </p>
 <br>
 
-<h3 align="left">🔥 Streak</h3>
-<hr>
-<center align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
-</center>
-<br>
+
+
 
 <h3 align="left">🚀 Skills</h3>
 <hr>
@@ -47,6 +43,11 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <h3 align="left">📊 Github Stats</h3>
 <hr>
 <p align="center">
+	<hr>
+<center align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
+</center>
+<br>
 	&emsp;
 	<center align="center">
 		<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
