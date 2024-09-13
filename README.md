@@ -44,14 +44,14 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <hr>
 <p align="center">
 	<hr>
-
+	<center>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
 	&emsp;
 		<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 	<br>
 	&emsp;
-
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+	</center>
 	
 </p>
 <br>
