@@ -18,6 +18,9 @@ As a Computer Science student, I am thrilled to be part of a field that is const
  	<a href="mailto:hassanamir0506@gmail.com">
  	 <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="My Skills">
 	</a>
+	<a href="https://x.com/Hassanamir0506">
+ 	 <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="My Skills">
+	</a>
 </p>
 <br>
 
