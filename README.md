@@ -11,7 +11,7 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <h3 align="left">📱Connect with me</h3>
 <hr>
 <br>
-<p align="center">
+<p align="center" display:"flex" >
 	<a href="https://www.linkedin.com/in/muhammadhassanamir/">
  	 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
 	</a>
