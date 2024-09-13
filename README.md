@@ -33,8 +33,10 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <!-- Center-aligned table -->
 <div style="text-align: center;">
 	<a href="https://muhammad-hassan-amir.vercel.app" style="text-align:center;">
-  <img align="center" height="60px" src="https://skillicons.dev/icons?i=ts,js,python,react,redux,tailwind,materialui,html,css,bootstrap,cpp" alt="My Skills">
-</a>
+        <img align="center" height="60px" src="https://skillicons.dev/icons?i=ts,js,python,react,redux,tailwind,materialui,html,css,bootstrap,cpp,chartjs,firebase" alt="My Skills">
+	</a>
+</div>
+
 
 </div>
 <br>
