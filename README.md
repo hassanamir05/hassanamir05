@@ -44,7 +44,7 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <hr>
 <p align="center">
 	<hr>
-	<center>
+	<div align="row">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
 	&emsp;
 		<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
@@ -52,7 +52,7 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 	&emsp;
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 		<img src="https://raw.githubusercontent.com/hassanamir05/hassanamir05/output/snake.svg" alt="Snake animation" />
-	</center>
+	</div>
 	
 </p>
 <br>
