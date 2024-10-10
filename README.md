@@ -56,6 +56,5 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 <h2 align="center">Contribution Graph 🌱</h2>
 
 <div align="center"> 
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
 		<img src="https://raw.githubusercontent.com/hassanamir05/hassanamir05/output/snake.svg" alt="Snake animation" />
  </div>
