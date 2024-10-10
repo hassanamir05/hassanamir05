@@ -40,19 +40,15 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 </div>
 <br>
 
-<h3 align="left">📊 Github Stats</h3>
-<hr>
-<p align="center">
-	<hr>
-	<div align="row">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
-	&emsp;
-		<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
-	<br>
-	&emsp;
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
-		<img src="https://raw.githubusercontent.com/hassanamir05/hassanamir05/output/snake.svg" alt="Snake animation" />
-	</div>
-	
-</p>
-<br>
+Close
+GitHub Profile
+
+v4
+Fork
+Share
+
+Preview
+
+README.md
+
+<h2 align="center">GitHub Stats 📊</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=radical" alt="GitHub Streak" /> </div> <h2 align="center">Language Usage 📈</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&layout=compact&theme=radical" alt="Top Languages" /> </div> <h2 align="center">Contribution Graph 🌱</h2> <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hassanamir05&theme=redical" alt="Contribution Graph" /> </div>
