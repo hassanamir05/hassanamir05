@@ -1,1 +1,58 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=tiltLeft" width="100%" alt="Welcome to My Profile" /> </div> <h1 align="center">Hi there, I'm [Your Name] 👋</h1> <p align="center"> <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" /></a> <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <h2 align="center">About Me 🚀</h2> <p align="center"> I'm a passionate developer who loves to create amazing things with code. My journey in tech has been exciting, and I'm always eager to learn more! </p> <h2 align="center">My Skills 💻</h2> <p align="center"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> </p> <h2 align="center">GitHub Stats 📊</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /> </div> <h2 align="center">Language Usage 📈</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" /> </div> <h2 align="center">Contribution Graph 🌱</h2> <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=redical" alt="Contribution Graph" /> </div> <h2 align="center">Featured Projects 🏆</h2> <div align="center"> <a href="https://github.com/yourusername/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1" /> </a> <a href="https://github.com/yourusername/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2" /> </a> </div> <h2 align="center">Let's Connect! 🤝</h2> <p align="center"> Feel free to reach out if you want to collaborate on a project or just chat about tech! </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" /> </div>
+<h1 align="center">Hi 👋, I'm Muhammad Hassan Amir</h1>
+
+<p align="center"></p>
+
+<h3>💁‍♂️About me</h3>
+<hr>
+<p>I am a Computer Science Student at Air University Islamabad.</p>
+As a Computer Science student, I am thrilled to be part of a field that is constantly evolving and transforming the world. I am eager to explore the various areas within computer science and discover which ones align best with my interests and strengths.
+<br><br>
+
+<h3 align="left">📱Connect with me</h3>
+<hr>
+<br>
+<p align="center" display:"flex" >
+	<a href="https://www.linkedin.com/in/muhammadhassanamir/">
+ 	 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
+	</a>
+ 	<a href="mailto:hassanamir0506@gmail.com">
+ 	 <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="My Skills">
+	</a>
+	<a href="https://x.com/Hassanamir0506">
+ 	 <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="My Skills">
+	</a>
+</p>
+<br>
+
+
+
+
+<h3 align="left">🚀 Skills</h3>
+<hr>
+<!-- Center-aligned table -->
+<div style="text-align: center;">
+	<a href="https://muhammad-hassan-amir.vercel.app" style="text-align:center;">
+        <img align="center" height="60px" src="https://skillicons.dev/icons?i=ts,js,python,react,redux,firebase,tailwind,materialui,html,css,bootstrap,cpp" alt="My Skills">
+	</a>
+</div>
+
+
+</div>
+<br>
+
+<h3 align="left">📊 Github Stats</h3>
+<hr>
+<p align="center">
+	<hr>
+	<div align="row">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="hassanamir05" />
+	&emsp;
+		<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+	<br>
+	&emsp;
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&theme=blue-green" alt="hassanamir05" />
+		<img src="https://raw.githubusercontent.com/hassanamir05/hassanamir05/output/snake.svg" alt="Snake animation" />
+	</div>
+	
+</p>
+<br>
