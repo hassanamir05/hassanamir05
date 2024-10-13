@@ -54,4 +54,6 @@ As a Computer Science student, I am thrilled to be part of a field that is const
 </div>
 
 <h2 align="center">Contribution Graph 🌱</h2>
-
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=hassanamir05&theme=github" alt="Contribution Graph" />
+</div>
