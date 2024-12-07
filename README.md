@@ -31,20 +31,18 @@
 <br>
 
 <h2 align="center">GitHub Stats 📊</h2> 
-<div align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" /> 
-</div> 
 
-<div align="center"> 
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=blue-green" alt="GitHub Streak" /> 
-</div> 
 
-<h2 align="center">Language Usage 📈</h2>
-<div align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&layout=compact&theme=blue-green" alt="Top Languages" />
-</div>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h2 align="center">Contribution Graph 🌱</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanamir05&label=Profile%20views&color=0e75b6&style=flat" alt="hassanamir05" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanamir05" alt="hassanamir05" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/hassanamir0506" target="blank"><img src="https://img.shields.io/twitter/follow/hassanamir0506?logo=twitter&style=for-the-badge" alt="hassanamir0506" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/hassanamir0506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanamir0506" height="30" width="40" /></a>
 </p>
 
