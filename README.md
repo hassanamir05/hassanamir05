@@ -2,8 +2,7 @@
 
 <h3>💁‍♂️About me</h3>
 <hr>
-<p>I am a Computer Science Student at Air University Islamabad.</p>
-<p>As a Computer Science student, I am thrilled to be part of a field that is constantly evolving and transforming the world. I am eager to explore the various areas within computer science and discover which ones align best with my interests and strengths.</p>
+<p>"Hi, I’m Hassan, a front-end developer with expertise in React.js, Tailwind CSS, and modern web design. I enjoy creating responsive, dynamic applications and solving real-world problems through code!"</p>
 
 <h3 align="left">📱Connect with me</h3>
 <hr>
@@ -33,21 +32,3 @@
 <h2 align="center">GitHub Stats 📊</h2> 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanamir05&label=Profile%20views&color=0e75b6&style=flat" alt="hassanamir05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanamir05" alt="hassanamir05" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hassanamir0506" target="blank"><img src="https://img.shields.io/twitter/follow/hassanamir0506?logo=twitter&style=for-the-badge" alt="hassanamir0506" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hassanamir0506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanamir0506" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&show_icons=true&locale=en&layout=compact" alt="hassanamir05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&locale=en" alt="hassanamir05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&" alt="hassanamir05" /></p>
