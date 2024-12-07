@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Amir</h1>
-<h3 align="center">A passionate front-end developer with expertise in React.js, Tailwind CSS, and modern web design.</h3>
 
 ---
 
 ### 💁‍♂️ About Me
-<p>"Hi, I’m Hassan, a front-end developer with expertise in React.js, Tailwind CSS, and modern web design. I enjoy creating responsive, dynamic applications and solving real-world problems through code!"</p>
+<p>"Hi, I’m Hassan, a front-end developer with expertise in React.js, Next.js and modern web design. I enjoy creating responsive, dynamic applications and solving real-world problems through code!"</p>
 
 ---
 
@@ -53,6 +52,11 @@
 <p align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanamir05&theme=dark" alt="GitHub Contribution Summary" />
 </p>
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanamir05&theme=dark" alt="GitHub Profile Stats" />
+</p>
+
 
 ---
 
