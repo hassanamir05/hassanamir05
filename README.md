@@ -36,22 +36,22 @@
 </p>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&theme=radical" alt="GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=radical" alt="GitHub Streak" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&layout=compact&theme=radical" alt="Top Languages" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🏆 GitHub Contributions
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanamir05&theme=radical" alt="GitHub Contribution Summary" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanamir05&theme=dark" alt="GitHub Contribution Summary" />
 </p>
 
 ---
@@ -64,4 +64,3 @@
 ---
 
 Feel free to explore my repositories and reach out for collaboration or project inquiries! 🌟
-
