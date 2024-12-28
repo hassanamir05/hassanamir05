@@ -6,7 +6,7 @@
 </p>
 
 ### 💁‍♂️ About Me
-<p>"Hi, I’m Hassan, a front-end developer with expertise in React.js, Next.js and modern web design. I enjoy creating responsive, dynamic applications and solving real-world problems through code!"</p>
+<p>Hi, I’m Hassan, a front-end developer with expertise in React.js, Next.js and modern web design. I enjoy creating responsive, dynamic applications and solving real-world problems through code!</p>
 
 ---
 
