@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Amir</h1>
 
 ---
+
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=hassanamir05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 💁‍♂️ About Me
-<p>Hi, I’m Hassan, a front-end developer with expertise in React.js, Next.js and modern web design. I enjoy creating responsive, dynamic applications and solving real-world problems through code!</p>
+<p>Hi, I’m Hassan, a front-end developer with expertise in React.js, Next.js, and modern web design. I enjoy creating responsive, dynamic applications and solving real-world problems through code!</p>
 
 ---
 
@@ -46,8 +47,6 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=dark" alt="GitHub Streak" />
 </div>
 
-
-
 ---
 
 ### 🏆 GitHub Contributions
@@ -55,6 +54,12 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanamir05&theme=dark" alt="GitHub Contribution Summary" />
 </p>
 
+---
+
+### 📈 Contribution Activity
+<p align="center">
+	<img src="<URL_TO_YOUR_IMAGE>" alt="Contribution Chart" />
+</p>
 
 ---
 
