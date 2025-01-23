@@ -36,31 +36,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanamir05&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hassanamir05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=hassanamir05&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanamir05&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanamir05&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Contributions
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanamir05&theme=dark" alt="GitHub Contribution Summary" />
-</p>
-
----
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=hassanamir05" alt="Contribution Graph" />
-</p>
-
+###
 
 ---
 
