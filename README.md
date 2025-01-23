@@ -58,8 +58,9 @@
 
 ### 📈 Contribution Activity
 <p align="center">
-	<img src="<URL_TO_YOUR_IMAGE>" alt="Contribution Chart" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=hassanamir05" alt="Contribution Graph" />
 </p>
+
 
 ---
 
