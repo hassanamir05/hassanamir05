@@ -28,7 +28,13 @@
 
 ### 🚀 Skills
 <div align="center">
-	<img align="center" height="60px" src="https://skillicons.dev/icons?i=next,react,ts,js,python,redux,firebase,supabase,tailwind,materialui,html,css,bootstrap,cpp" alt="My Skills">
+<img 
+  align="center" 
+  height="60" 
+  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,typescript,javascript,redux,firebase,supabase,tailwindcss,shadcn,materialui,html,css,python,bootstrap,cpp" 
+  alt="My Skills"
+/>
+
 </div>
 
 ---
