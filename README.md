@@ -31,7 +31,7 @@
 <img 
   align="center" 
   height="60" 
-  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,typescript,javascript,redux,firebase,supabase,tailwindcss,shadcn,materialui,html,css,python,bootstrap,cpp" 
+  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,typescript,javascript,redux,firebase,supabase,tailwindcss,materialui,html,css,python,bootstrap,cpp" 
   alt="My Skills"
 />
 
