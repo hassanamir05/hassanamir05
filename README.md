@@ -12,7 +12,7 @@
 ---
 
 ### 📱 Connect with Me
-<p align="center flex gap-x-2">
+<p align="center ">
 	<a href="https://www.linkedin.com/in/muhammadhassanamir/" target="_blank">
 		<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
 	</a>
