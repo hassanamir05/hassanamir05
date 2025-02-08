@@ -14,13 +14,13 @@
 ### 📱 Connect with Me
 <p align="center flex gap-x-2">
 	<a href="https://www.linkedin.com/in/muhammadhassanamir/" target="_blank">
-		<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="100" alt="LinkedIn">
+		<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
 	</a>
  	<a href="mailto:hassanamir0506@gmail.com" target="_blank">
-		<img align="center" src="https://skillicons.dev/icons?i=gmail" height="100" alt="Gmail">
+		<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
 	</a>
 	<a href="https://x.com/Hassanamir0506" target="_blank">
-		<img align="center" src="https://skillicons.dev/icons?i=twitter" height="100" alt="Twitter">
+		<img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
 	</a>
 </p>
 
