@@ -31,9 +31,10 @@
 <img 
   align="center" 
   height="100" 
-  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,psql,typescript,javascript,redux,firebase,supabase,tailwindcss,materialui,html,css,python,bootstrap,cpp" 
+  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgres,typescript,javascript,redux,firebase,supabase,tailwindcss,materialui,html,css,python,bootstrap,cpp" 
   alt="My Skills"
 />
+
 
 </div>
 
