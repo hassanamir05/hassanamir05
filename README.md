@@ -1,57 +1,77 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hassan Amir</h1>
-
----
+<h1 align="center">Muhammad Hassan Amir</h1>
+<p align="center">Full-Stack Developer (MERN and PERN)</p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=hassanamir05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-### 💁‍♂️ About Me
-<p>I am a MERN stack developer specializing in building responsive, efficient, and user-friendly web applications. My focus is on writing clean code and delivering seamless user experiences.</p>
-
----
-
-### 📱 Connect with Me
-<p align="center ">
-	<a href="https://www.linkedin.com/in/muhammadhassanamir/" target="_blank">
-		<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-	</a>
- 	<a href="mailto:hassanamir0506@gmail.com" target="_blank">
-		<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-	</a>
-	<a href="https://x.com/Hassanamir0506" target="_blank">
-		<img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
-	</a>
+  <img src="https://komarev.com/ghpvc/?username=hassanamir05&label=Profile%20views&color=555555&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 Skills
+### About Me
+
+I am a freelance full-stack developer with 3+ years of experience building web applications for clients worldwide. I work mainly with the MERN stack (MongoDB, Express, React, Node.js) and the PERN stack (PostgreSQL, Express, React, Node.js).
+
+I build REST APIs, design databases, and create responsive frontends. I write clean, maintainable code and communicate clearly with clients, in English and Italian.
+
+---
+
+### What I Do
+
+- Full-stack web applications with MERN and PERN
+- REST API design and backend development with Node.js and Express
+- Database design with MongoDB and PostgreSQL
+- Caching and performance improvements with Redis
+- Containerized development and deployment with Docker
+- Bug fixing and code review
+
+---
+
+### Tech Stack
+
 <div align="center">
-<img 
-  align="center" 
-  height="100" 
-  src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,typescript,javascript,redux,tailwindcss,materialui,html,css,python,bootstrap,cpp" 
-  alt="My Skills"
-/>
-
-
+  <img
+    height="60"
+    src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,tailwind,html,css&theme=light"
+    alt="Frontend and backend skills"
+  />
+  <br />
+  <img
+    height="60"
+    src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github&theme=light"
+    alt="Databases and tools"
+  />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### Selected Work
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hassanamir05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=hassanamir05&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph
-
-
-###
+- [Portfolio](https://muhammad-hassan-amir.vercel.app/)
+- [Fluxa](https://fluxa-hassan.vercel.app/)
 
 ---
 
-Feel free to explore my repositories and reach out for collaboration or project inquiries! 🌟
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanamir05&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanamir05&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="Top languages" />
+</div>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadhassanamir/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hassanamir0506@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" />
+  </a>
+  <a href="https://x.com/Hassanamir0506" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" />
+  </a>
+</p>
+
+<p align="center">Open to freelance projects and collaboration. Feel free to reach out.</p>
